@@ -1,1 +1,1 @@
-"This is file B -version1"
+"This is file B -version1, LoL too"
